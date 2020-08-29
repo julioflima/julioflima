@@ -58,18 +58,17 @@
     <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
     <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/algorithmia/algorithmia-ar21.svg">
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg">
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg">
     <br />
   </span>
 </div>
