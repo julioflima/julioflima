@@ -26,12 +26,14 @@
   I'm falling in love with Machine Learn technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
 
+<a href="https://samujjwaal.tech/"><img src="https://user-images.githubusercontent.com/17098382/91646543-90f73b80-ea26-11ea-924d-4a843c815257.gif" align="right" height="250" /></a>
+
 <p align="left"> <samp>
-- 🔭 I’m currently looking for a job ...<br>
-- 🎁 I’m currently building ...<br>
-- 🌱 I’m currently learning to create a machine learn using Tesor flow and choosing the hidden layers using Particle Swarm Optimization.<br>
-- 👯 I’m looking to collaborate on anyone.<br>
-- 💬 Cool thing that i created was a theme on Chrome with Matrix Letters...<br>
+🔭 <strong>I’m currently looking for a job!</strong><br>
+🎁 I’m currently building ...<br>
+🌱 I’m currently learning to create a machine learn using Tesor flow and choosing the hidden layers using Particle Swarm Optimization.<br>
+👯 I’m looking to collaborate on anyone.<br>
+💬 Cool thing that i created was a theme on Chrome with Matrix Letters...<br>
 </p>
 
 ### Languages and Tools:
