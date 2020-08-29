@@ -74,7 +74,7 @@
     <img width="10%" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">
+    <!--<img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">-->
     <br />
   </span>
 
