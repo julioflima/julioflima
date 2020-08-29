@@ -1,4 +1,4 @@
-<h1>
+<h1 align="left">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   <span>Hey, I'm Julio Lima, a Web Developer 🚀 from Brazil. </span>
 </h1>
@@ -21,7 +21,7 @@
 </p>
 
 ### About me
-<p style='text-align: justify' >
+<p align="left" >
   I'm a <strong>Eletrical Engineer</strong> and <strong>Analyst of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and front web frameworks. I have been developing some sites and projects for some local companies, my lasts jobs was related to microservices and systems financing, and some startup ideas that could change the way how human being read news and communicate with others.
   I'm falling in love with Machine Learn technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
