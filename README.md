@@ -46,26 +46,30 @@
   </span>
   <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <span>
+    <!-- Languages -->
+    <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+    <br />
+    <!-- Frameworks 1 -->
     <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     <br />
+    <!-- Frameworks 1 -->
     <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
     <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg">
-    <br />
-    <!-- Companies -->
-    <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/algorithmia/algorithmia-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+    <!-- Tools -->
+    <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">
+    <br />
     <!-- Companies -->
     <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/algorithmia/algorithmia-ar21.svg">
