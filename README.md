@@ -31,7 +31,7 @@
 <a href="https://en.wikipedia.org/wiki/Particle_swarm_optimization/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/ParticleSwarmArrowsAnimation.gif" align="right" height="200" /></a>
 
 <p align="left"> <samp>
-👀 <strong>I’m currently looking for a job!</strong>.<br>
+👀 <strong>I’m currently looking for a job!</strong><br>
 🏆 I’m currently building <strong><a href="https://github.com/juloko/brother.bet">Brother.Bet</a></strong>.<br>
 🌱 I’m currently learning to create a machine learning, choosing the hidden layers using <strong>Particle Swarm Optimization</strong>.<br>
 👯 I’m looking to collaborate on <strong>anyone</strong>.<br>
@@ -51,27 +51,27 @@
     <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+    <!--<img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">-->
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg">
+    <!--<img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg">-->
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/algorithmia/algorithmia-ar21.svg">
+    <!--<img width="10%" src="https://www.vectorlogo.zone/logos/algorithmia/algorithmia-ar21.svg">-->
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    <!--<img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">-->
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">
+    <!--<img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">-->
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
