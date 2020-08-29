@@ -80,6 +80,3 @@
     <br />
   </span>
 </div>
-
-
-![Made with ❤ Brazil](https://madewithlove.now.sh/br?colorA=%23f3ec30&colorB=%2338dc79&template=for-the-badge)
