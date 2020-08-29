@@ -13,7 +13,7 @@
 
 ### About me
 <p align="left"> <samp>
-I'm a Eletrical Engineer and <strong>Analist of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, Node.js, and front web frameworks. I have been developing some sites and projects for some local companies, my last business and myself, related to microservices and systems financing, my passionate area, and some startup ideas that could change the way how human being read news and communicate with others.
+I'm a <strong>Eletrical Engineer</strong> and <strong>Analist of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and front web frameworks. I have been developing some sites and projects for some local companies, my last business and myself, related to microservices and systems financing, my passionate area, and some startup ideas that could change the way how human being read news and communicate with others.
 I'm falling in love with technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 
 <p align="left"> <samp>
