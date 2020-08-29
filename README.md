@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a job ...
-- 🌱 I’m currently learning to create a machine learn using Tesor flow and choosing the hidden layers using Particle Swarm Optimization.
-- 👯 I’m looking to collaborate on  anyone.
-- 💬 Cool thing that i created was a theme on Chrome with Matrix Letters...
-- 📫 How to reach me: juliocflima@gmail.com.
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -24,10 +20,12 @@
 From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.
 
 <p align="left"> <samp>
-- 👨🏽‍💻 I’m currently working on [Fandango](https://www.fandango.lat);<br>
-- 🌱 I’m currently learning data migration and multi plataform;<br>
-- 🔭 I’m looking to collaborate on any open source project🤝;<br>
-- 💬 Ask me about anything especially about tech, movies, series I am happy to help;<br>
+- 🔭 I’m currently looking for a job ...<br>
+- 🌱 I’m currently learning to create a machine learn using Tesor flow and choosing the hidden layers using Particle Swarm Optimization.<br>
+- 👯 I’m looking to collaborate on  anyone.<br>
+- 💬 Cool thing that i created was a theme on Chrome with Matrix Letters...<br>
+- 📫 How to reach me: juliocflima@gmail.com.<br>
+</p>
 
 ### Languages and Tools:
 
