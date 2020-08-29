@@ -43,7 +43,7 @@
   <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
   <span>
     <img width="55%" align="right" alt="Julio Lima's github stats." 
-         src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=false&hide_border=true" />
+         src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=true" />
   </span>
   
   <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
