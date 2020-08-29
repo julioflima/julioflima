@@ -55,12 +55,18 @@
      <!-- Languages 2-->
     <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
     <br />
     <!-- Frameworks 1 -->
     <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    <br />
+    <!-- Frameworks 2 -->
+    <img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     <br />
