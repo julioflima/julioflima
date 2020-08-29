@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. 
 </h1>
 
-### I'm Julio Lima, a Web Developer 🚀 from Brazil.
+### I'm Julio Lima, a Web Developer 🚀 from Brazil <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/franconavarro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,10 +18,10 @@ I'm falling in love with technology, working with <strong>Tensor Flow</strong>, 
 
 <p align="left"> <samp>
 - 🔭 I’m currently looking for a job ...<br>
+- 🎁 I’m currently building ...<br>
 - 🌱 I’m currently learning to create a machine learn using Tesor flow and choosing the hidden layers using Particle Swarm Optimization.<br>
-- 👯 I’m looking to collaborate on  anyone.<br>
+- 👯 I’m looking to collaborate on anyone.<br>
 - 💬 Cool thing that i created was a theme on Chrome with Matrix Letters...<br>
-- 📫 How to reach me: juliocflima@gmail.com.<br>
 </p>
 
 ### Languages and Tools:
