@@ -5,23 +5,25 @@
 
 <p align="center">
   <a href="mailto:juliocflima@gmail.com">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+  </a>
   <a href="https://instagram.com/julio.flima">
-    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/julioflima">
+    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/julioflima">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
-  <a href="https://t.me/melissecabral/">
+  <a href="https://t.me/juliolima/">
     <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5585998614541&text=Ol%C3%A1">
-  <img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/>
+  <a href="https://api.whatsapp.com/send?phone=5585998614541&text=Hello%20Web%20Developer!">
+    <img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 ### About me
 <p style='text-align: justify' >
-  I'm a <strong>Eletrical Engineer</strong> and <strong>Analist of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and front web frameworks. I have been developing some sites and projects for some local companies, my lasts jobs was related to microservices and systems financing, and some startup ideas that could change the way how human being read news and communicate with others.
+  I'm a <strong>Eletrical Engineer</strong> and <strong>Analyst of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and front web frameworks. I have been developing some sites and projects for some local companies, my lasts jobs was related to microservices and systems financing, and some startup ideas that could change the way how human being read news and communicate with others.
   I'm falling in love with Machine Learn technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
   
