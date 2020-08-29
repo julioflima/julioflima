@@ -3,12 +3,20 @@
 
 ### I'm Julio Lima, a Web Developer 🚀 from Brazil <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/franconavarro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/francotel"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:franco.navarrotel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://dev.to/francotel"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:juliocflima@gmail.com">
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/julio.flima">
+    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/julioflima">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>
+  <a href="https://t.me/melissecabral/">
+    <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5585998614541&text=Ol%C3%A1">
+  <img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ### About me
