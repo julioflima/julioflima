@@ -29,11 +29,11 @@
 <a href="https://en.wikipedia.org/wiki/Particle_swarm_optimization/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/ParticleSwarmArrowsAnimation.gif" align="right" height="200" /></a>
 
 <p align="left"> <samp>
-🔭 <strong>I’m currently looking for a job!</strong><br>
-🎁 I’m currently building <strong><a href="https://github.com/juloko/brother.bet">Brother.Bet</a></strong><br>
+🔭 <strong>I’m currently looking for a job!</strong>.<br>
+🎁 I’m currently building <strong><a href="https://github.com/juloko/brother.bet">Brother.Bet</a></strong>.<br>
 🌱 I’m currently learning to create a machine learning, choosing the hidden layers using <strong>Particle Swarm Optimization</strong>.<br>
 👯 I’m looking to collaborate on <strong>anyone</strong>.<br>
-💬 Cool thing that i created was a theme on Chrome with  <strong><a href="https://github.com/juloko/matrix-effect">Matrix</a></strong> letters...<br>
+💬 Cool thing that i created was a theme on Chrome with  <strong><a href="https://github.com/juloko/matrix-effect">Matrix</a></strong> letters.<br>
 </p>
 
 ### Languages and Tools:
