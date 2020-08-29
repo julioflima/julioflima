@@ -3,6 +3,7 @@
 
 ### I'm Julio Lima, a Web Developer 🚀 from Brazil <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>.
 
+### Meet me
 <p align="center">
   <a href="mailto:juliocflima@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
@@ -40,7 +41,8 @@
 <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
 <p>
   <span>
-    <img width="55%" align="right" alt="francotel's github stats" src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Julio Lima's github stats." 
+         src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=true" />
   </span>
   
   <span>
