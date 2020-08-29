@@ -26,7 +26,7 @@
   I'm falling in love with Machine Learning technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
 
-<a href="https://samujjwaal.tech/"><img src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/09/18085910/Monkey_Kid_Coding.gif" align="right" height="200" /></a>
+<a href="https://en.wikipedia.org/wiki/Particle_swarm_optimization/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/ParticleSwarmArrowsAnimation.gif" align="right" height="200" /></a>
 
 <p align="left"> <samp>
 🔭 <strong>I’m currently looking for a job!</strong><br>
