@@ -57,13 +57,13 @@
     <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg">
     <br />
     <!-- Companies -->
     <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/algorithmia/algorithmia-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
   </span>
