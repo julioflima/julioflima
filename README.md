@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Hey, I'm Julio Lima, a Web Developer 🚀 from Brazil.
-</h2>
+</h1>
 <p align="center">
   <a href="mailto:juliocflima@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
