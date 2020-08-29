@@ -53,8 +53,8 @@
     <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
     <br />
      <!-- Languages 2-->
-    <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
     <br />
