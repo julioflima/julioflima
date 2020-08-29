@@ -21,12 +21,12 @@
 </p>
 
 ### About me
-<div style='text-align: justify' >
+<p style='text-align: justify' >
   I'm a <strong>Eletrical Engineer</strong> and <strong>Analyst of Systems</strong>, focused in Web Development and delighted about cloud processing with microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and frontend frameworks. I have been developing some and projects for some local companies, my last jobs was related to startup ideas that could change how human being read news, using <strong>AI</strong>.
-</div>
-<div style='text-align: justify' >
+</p>
+<p style='text-align: justify' >
   I'm falling in love with Machine Learning technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
-</div>
+</p>
 
 <a href="https://en.wikipedia.org/wiki/Particle_swarm_optimization/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/ParticleSwarmArrowsAnimation.gif" align="right" height="170" /></a>
 
