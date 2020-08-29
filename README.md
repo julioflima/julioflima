@@ -23,17 +23,17 @@
 ### About me
 <p style='text-align: justify' >
   I'm a <strong>Eletrical Engineer</strong> and <strong>Analyst of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and front web frameworks. I have been developing some sites and projects for some local companies, my lasts jobs was related to microservices and systems financing, and some startup ideas that could change the way how human being read news and communicate with others.
-  I'm falling in love with Machine Learn technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
+  I'm falling in love with Machine Learning technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
 
 <a href="https://samujjwaal.tech/"><img src="https://user-images.githubusercontent.com/17098382/91646543-90f73b80-ea26-11ea-924d-4a843c815257.gif" align="right" height="250" /></a>
 
 <p align="left"> <samp>
 🔭 <strong>I’m currently looking for a job!</strong><br>
-🎁 I’m currently building ...<br>
-🌱 I’m currently learning to create a machine learn using Tesor flow and choosing the hidden layers using Particle Swarm Optimization.<br>
-👯 I’m looking to collaborate on anyone.<br>
-💬 Cool thing that i created was a theme on Chrome with Matrix Letters...<br>
+🎁 I’m currently building [Brother.Bet](https://github.com/juloko/brother.bet)...<br>
+🌱 I’m currently learning to create a machine learning using Tesor flow and choosing the hidden layers using <strong>Particle Swarm Optimization</strong>.<br>
+👯 I’m looking to collaborate on <strong>anyone</strong>.<br>
+💬 Cool thing that i created was a theme on Chrome with  <strong>[Matrix](https://github.com/juloko/matrix-effect)</strong> letters...<br>
 </p>
 
 ### Languages and Tools:
