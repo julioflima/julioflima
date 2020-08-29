@@ -33,7 +33,7 @@
 🎁 I’m currently building [Brother.Bet](https://github.com/juloko/brother.bet)...<br>
 🌱 I’m currently learning to create a machine learning using Tesor flow and choosing the hidden layers using <strong>Particle Swarm Optimization</strong>.<br>
 👯 I’m looking to collaborate on <strong>anyone</strong>.<br>
-💬 Cool thing that i created was a theme on Chrome with  <strong>[Matrix](https://github.com/juloko/matrix-effect)</strong> letters...<br>
+💬 Cool thing that i created was a theme on Chrome with  <strong><a href="https://github.com/juloko/matrix-effect"></a></strong> letters...<br>
 </p>
 
 ### Languages and Tools:
