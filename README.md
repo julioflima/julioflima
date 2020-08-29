@@ -1,10 +1,6 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. 
+</h1>
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!-- Your title -->
 ## Hi, I'm Julio Lima, a Web Developer 🚀 from Brazil.
 
 <p align="left">
@@ -16,8 +12,9 @@
 </p>
 
 ### About me
-<p align="left"> <samp>Hi, My name is Franco Navarro. I am a telecommunications engineering university student from the Pontificia Universidad Católica del Perú focused on cloud computing and web services. Besides infrastructure and programming building, I enjoy traveling and watching movies.
-From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.
+<p align="left"> <samp>
+I'm a Eletrical Engineer and <strong>Analist of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, Node.js, and front web frameworks. I have been developing some sites and projects for some local companies, my last business and myself, related to microservices and systems financing, my passionate area, and some startup ideas that could change the way how human being read news and communicate with others.
+I'm falling in love with technology, working with <strong>Tensor Flow</strong>, and this love has guiding me.
 
 <p align="left"> <samp>
 - 🔭 I’m currently looking for a job ...<br>
