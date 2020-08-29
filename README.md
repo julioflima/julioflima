@@ -26,14 +26,14 @@
   I'm falling in love with Machine Learning technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
 
-<a href="https://samujjwaal.tech/"><img src="https://user-images.githubusercontent.com/17098382/91646543-90f73b80-ea26-11ea-924d-4a843c815257.gif" align="right" height="250" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/09/18085910/Monkey_Kid_Coding.gif" align="right" height="250" /></a>
 
 <p align="left"> <samp>
 🔭 <strong>I’m currently looking for a job!</strong><br>
 🎁 I’m currently building [Brother.Bet](https://github.com/juloko/brother.bet)...<br>
 🌱 I’m currently learning to create a machine learning using Tesor flow and choosing the hidden layers using <strong>Particle Swarm Optimization</strong>.<br>
 👯 I’m looking to collaborate on <strong>anyone</strong>.<br>
-💬 Cool thing that i created was a theme on Chrome with  <strong><a href="https://github.com/juloko/matrix-effect"></a></strong> letters...<br>
+💬 Cool thing that i created was a theme on Chrome with  <strong><a href="https://github.com/juloko/matrix-effect">Matrix</a></strong> letters...<br>
 </p>
 
 ### Languages and Tools:
