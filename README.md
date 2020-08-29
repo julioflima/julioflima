@@ -39,13 +39,11 @@
 </p>
 
 ### Languages and Tools:
-
+<img width="55%" align="right" alt="Julio Lima's github stats." 
+         src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=true" />
 <p>
   <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
-  <span>
-    <img width="55%" align="right" alt="Julio Lima's github stats." 
-         src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=true" />
-  </span>
+    
   <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <span>
     <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
@@ -79,7 +77,6 @@
     <!--<img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">-->
     <br />
   </span>
-
 </p>
 
 
