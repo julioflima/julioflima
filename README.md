@@ -22,7 +22,7 @@
 
 ### About me
 <p style='text-align: justify' >
-  I'm a <strong>Eletrical Engineer</strong> and <strong>Analyst of Systems</strong>. I'm focused in Web Development and delighted about cloud processing with microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and frontend frameworks. I have been developing some and projects for some local companies, my last jobs was related to  startup ideas that could change the way how human being read news and communicate with others, using AI.
+  I'm a <strong>Eletrical Engineer</strong> and <strong>Analyst of Systems</strong>. I'm focused in Web Development and delighted about cloud processing with microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and frontend frameworks. I have been developing some and projects for some local companies, my last jobs was related to  startup ideas that could change the way how human being read news and communicate with others, using <strong>AI</strong>.
 </p>
 <p style='text-align: justify' >
   I'm falling in love with Machine Learning technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
