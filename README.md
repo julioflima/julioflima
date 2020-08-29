@@ -26,7 +26,7 @@
   I'm falling in love with Machine Learn technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
   
-<a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="250" /></a>
+<a href="https://github.com/juloko"><img src="https://giphy.com/gifs/sk6yL9EGVeAcE" align="right" height="400" /></a>
 <p align="left"> <samp>
 - 🔭 I’m currently looking for a job ...<br>
 - 🎁 I’m currently building ...<br>
