@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. 
 </h1>
 
-## Hi, I'm Julio Lima, a Web Developer 🚀 from Brazil.
+### I'm Julio Lima, a Web Developer 🚀 from Brazil.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/franconavarro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
