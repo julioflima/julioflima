@@ -38,24 +38,23 @@
 
 ### Languages and Tools:
 
-<!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
 <p>
+  <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
   <span>
     <img width="55%" align="right" alt="Julio Lima's github stats." 
          src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=true" />
   </span>
-  
+  <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <span>
-    <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
-    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
     <br />
     <img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
