@@ -25,8 +25,7 @@
   I'm a <strong>Eletrical Engineer</strong> and <strong>Analyst of Systems</strong>. I'm focusing in Web Development and delighted about the possibilities of cloud processing and microservices, RESTful-API, NO-SQL database, <strong>Node</strong>.js, and front web frameworks. I have been developing some sites and projects for some local companies, my lasts jobs was related to microservices and systems financing, and some startup ideas that could change the way how human being read news and communicate with others.
   I'm falling in love with Machine Learn technology, working with <strong>Tensor Flow</strong>, <i>and this love has guided me</i>.
 </p>
-  
-<a href="https://github.com/juloko"><img src="https://giphy.com/gifs/sk6yL9EGVeAcE" align="right" height="400" /></a>
+
 <p align="left"> <samp>
 - 🔭 I’m currently looking for a job ...<br>
 - 🎁 I’m currently building ...<br>
@@ -41,7 +40,7 @@
   <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
   <span>
     <img width="55%" align="right" alt="Julio Lima's github stats." 
-         src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=true" />
+         src="https://github-readme-stats.vercel.app/api?username=juloko&show_icons=true&hide_border=false" />
   </span>
   <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <span>
